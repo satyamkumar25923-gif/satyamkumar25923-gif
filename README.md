@@ -75,67 +75,55 @@ Hi, I'm **Satyam Kumar** — a **CSE (AI & ML) student at KIIT** passionate abou
 
 ---
 
+
 # 📊 GitHub Stats
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=SatyamKumar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=60A5FA&text_color=C9D1D9"
+src="https://github-readme-stats.vercel.app/api?username=satyamkumar25923-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=60A5FA&text_color=C9D1D9"
 width="100%"
 />
 
 <br><br>
 
 <img
-src="https://streak-stats.demolab.com/?user=SatyamKumar&hide_border=true&background=0D1117&ring=8B5CF6&fire=60A5FA&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E"
+src="https://streak-stats.demolab.com/?user=satyamkumar25923-gif&hide_border=true&background=0D1117&ring=8B5CF6&fire=60A5FA&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E"
 width="100%"
 />
 
 <br><br>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamKumar&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar25923-gif&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"
 width="100%"
 />
 
 </div>
+
+---
 
 # 📈 Contribution Graph
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamKumar&bg_color=0D1117&color=8B5CF6&line=60A5FA&point=22D3EE&area=true&hide_border=true&custom_title=My%20GitHub%20Contributions"
+src="https://github-readme-activity-graph.vercel.app/graph?username=satyamkumar25923-gif&bg_color=0D1117&color=8B5CF6&line=60A5FA&point=22D3EE&area=true&hide_border=true&custom_title=My%20GitHub%20Contributions"
 width="100%"
 />
 
 </div>
 
+---
+
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SatyamKumar&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
-
-</div>
-
----
-
-# ✍️ Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
-
-</div>
-
----
-
-# 🔝 Top Contributed Repo
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=SatyamKumar&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=satyamkumar25923-gif&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"
+width="100%"
+/>
 
 </div>
 
@@ -145,14 +133,8 @@ width="100%"
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SatyamKumar&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Thanks for visiting my profile!
+<img
+src="https://komarev.com/ghpvc/?username=satyamkumar25923-gif&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"
+/>
 
 </div>
