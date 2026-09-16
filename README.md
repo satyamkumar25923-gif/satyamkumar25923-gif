@@ -79,29 +79,37 @@ Hi, I'm **Satyam Kumar** — a **CSE (AI & ML) student at KIIT** passionate abou
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=SatyamKumar&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=60A5FA&text_color=C9D1D9" width="100%"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=SatyamKumar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=60A5FA&text_color=C9D1D9"
+width="100%"
+/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=SatyamKumar&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=60A5FA&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" width="100%"/>
+<img
+src="https://streak-stats.demolab.com/?user=SatyamKumar&hide_border=true&background=0D1117&ring=8B5CF6&fire=60A5FA&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E"
+width="100%"
+/>
 
 <br><br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SatyamKumar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" width="100%"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamKumar&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"
+width="100%"
+/>
 
 </div>
-
----
 
 # 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamKumar&bg_color=0D1117&color=8B5CF6&line=60A5FA&point=22D3EE&area=true&hide_border=true" width="100%"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamKumar&bg_color=0D1117&color=8B5CF6&line=60A5FA&point=22D3EE&area=true&hide_border=true&custom_title=My%20GitHub%20Contributions"
+width="100%"
+/>
 
 </div>
-
----
 
 # 🏆 GitHub Trophies
 
