@@ -70,11 +70,9 @@ Hi, I'm **Satyam Kumar** — a **CSE (AI & ML) student at KIIT** passionate abou
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 
 ---
-
 
 # 📊 GitHub Stats
 
@@ -103,27 +101,31 @@ width="100%"
 
 ---
 
-# 📈 Contribution Graph
+# 🐍 Contribution Activity
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=satyamkumar25923-gif&bg_color=0D1117&color=8B5CF6&line=60A5FA&point=22D3EE&area=true&hide_border=true&custom_title=My%20GitHub%20Contributions"
-width="100%"
-/>
+<img src="./output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📌 GitHub Profile
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=satyamkumar25923-gif&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"
-width="100%"
-/>
+<a href="https://github.com/satyamkumar25923-gif">
+
+<img src="https://img.shields.io/badge/GitHub-satyamkumar25923--gif-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/satyamkumar25923-gif?tab=repositories">
+
+<img src="https://img.shields.io/badge/Repositories-60A5FA?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 </div>
 
@@ -136,5 +138,13 @@ width="100%"
 <img
 src="https://komarev.com/ghpvc/?username=satyamkumar25923-gif&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"
 />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
 
 </div>
