@@ -124,6 +124,7 @@ width="100%"
     width="100%"
     alt="GitHub Contribution Snake"
   />
+
 </picture>
 
 </div>
