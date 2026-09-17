@@ -78,20 +78,23 @@ Hi, I'm **Satyam Kumar** — a **CSE (AI & ML) student at KIIT** passionate abou
 
 <div align="center">
 
+<!-- GitHub Stats -->
 <img
-src="https://github-readme-stats.vercel.app/api?username=satyamkumar25923-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=60A5FA&text_color=C9D1D9"
+src="https://github-readme-stats.vercel.app/api?username=satyamkumar25923-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=C9D1D9&number_color=60A5FA"
 width="100%"
 />
 
 <br><br>
 
+<!-- GitHub Streak -->
 <img
-src="https://streak-stats.demolab.com/?user=satyamkumar25923-gif&hide_border=true&background=0D1117&ring=8B5CF6&fire=60A5FA&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E"
+src="https://streak-stats.demolab.com/?user=satyamkumar25923-gif&hide_border=true&background=0D1117&ring=FF8A00&fire=FF4500&currStreakNum=FF8A00&currStreakLabel=FF8A00&sideNums=8B5CF6&sideLabels=C9D1D9&dates=8B949E"
 width="100%"
 />
 
 <br><br>
 
+<!-- Top Languages -->
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar25923-gif&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"
 width="100%"
