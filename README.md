@@ -8,13 +8,13 @@
   alt="Satyam Kumar Profile Banner"
 />
 
-<br>
+
 
 <!-- ==================== ANIMATED ROLE ==================== -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=900&color=2F80ED&center=true&vCenter=true&width=750&lines=Software+Developer;AI%2FML+Enthusiast;CSE+(AI+%26+ML)+Student;Full+Stack+Developer;Building.+Learning.+Creating." alt="Typing SVG"/>
 
-<br><br>
+
 
 ### CSE (AI & ML) Student @ KIIT
 
