@@ -2,7 +2,11 @@
 
 <!-- ==================== PROFILE BANNER ==================== -->
 
-<img src="./assets/profile-banner.png" width="100%" alt="Satyam Kumar Profile Banner"/>
+<img
+  src="./profile-banner.png"
+  width="100%"
+  alt="Satyam Kumar Profile Banner"
+/>
 
 <br><br>
 
