@@ -96,14 +96,14 @@ src="https://github-readme-stats.vercel.app/api?username=satyamkumar25923-gif&sh
 width="100%"
 />
 
-<br><br>
+
 
 <img
 src="https://streak-stats.demolab.com/?user=satyamkumar25923-gif&hide_border=true&background=071426&ring=2F80ED&fire=60A5FA&currStreakNum=60A5FA&currStreakLabel=60A5FA&sideNums=2F80ED&sideLabels=D6E4F0&dates=829AB1"
 width="100%"
 />
 
-<br><br>
+
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar25923-gif&layout=compact&hide_border=true&bg_color=071426&title_color=60A5FA&text_color=D6E4F0"
