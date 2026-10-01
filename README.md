@@ -1,26 +1,43 @@
 <div align="center">
 
-# 💫 About Me
+<!-- ==================== PROFILE BANNER ==================== -->
 
-Hi, I'm **Satyam Kumar** — a **CSE (AI & ML) student at KIIT** passionate about **coding, AI/ML, and web development**.
+<img src="./assets/profile-banner.png" width="100%" alt="Satyam Kumar Profile Banner"/>
 
-💻 C/C++ | JavaScript | React.js | Python  
-🚀 Building projects, learning DSA & exploring AI.
+<br><br>
+
+<!-- ==================== ANIMATED ROLE ==================== -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=900&color=2F80ED&center=true&vCenter=true&width=750&lines=Software+Developer;AI%2FML+Enthusiast;CSE+(AI+%26+ML)+Student;Full+Stack+Developer;Building.+Learning.+Creating." alt="Typing SVG"/>
+
+<br><br>
+
+# 💙 Satyam Kumar
+
+### CSE (AI & ML) Student @ KIIT
+
+<p>
+Passionate about <b>Software Development</b>, <b>AI/ML</b>, <b>Web Development</b> and <b>DSA</b>.
+</p>
 
 ---
 
-# 🌐 Socials
+# 🌐 Connect With Me
 
 <a href="https://instagram.com/satyam_xd">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-0B1F3A?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/satyam-kumar-0a17312b3">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-102A43?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:satyamkumar25923@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-163D66?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/satyamkumar25923-gif">
+<img src="https://img.shields.io/badge/GitHub-071426?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
@@ -29,59 +46,65 @@ Hi, I'm **Satyam Kumar** — a **CSE (AI & ML) student at KIIT** passionate abou
 
 ### 🔤 Languages
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-0B1F3A?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-102A43?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-163D66?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-0B1F3A?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-102A43?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-163D66?style=for-the-badge&logo=powershell&logoColor=white"/>
 
 ### 🌐 Web Development
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-0B1F3A?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-102A43?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-071426?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-0B1F3A?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-102A43?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-163D66?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+### 🤖 AI / ML
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0B1F3A?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-163D66?style=for-the-badge&logo=python&logoColor=white"/>
 
 ### ☁️ Backend & Cloud
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-0B1F3A?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-102A43?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-163D66?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-0B1F3A?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-102A43?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-071426?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 ### 🎨 Design & Tools
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-0B1F3A?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-102A43?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blender-163D66?style=for-the-badge&logo=blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-0B1F3A?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-071426?style=for-the-badge&logo=github&logoColor=white"/>
 
 ---
 
 # 📊 GitHub Stats
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=satyamkumar25923-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=C9D1D9&number_color=60A5FA"
+src="https://github-readme-stats.vercel.app/api?username=satyamkumar25923-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=071426&title_color=60A5FA&icon_color=2F80ED&text_color=D6E4F0&number_color=60A5FA"
 width="100%"
 />
 
 <br><br>
 
 <img
-src="https://streak-stats.demolab.com/?user=satyamkumar25923-gif&hide_border=true&background=0D1117&ring=FF8A00&fire=FF4500&currStreakNum=FF8A00&currStreakLabel=FF8A00&sideNums=8B5CF6&sideLabels=C9D1D9&dates=8B949E"
+src="https://streak-stats.demolab.com/?user=satyamkumar25923-gif&hide_border=true&background=071426&ring=2F80ED&fire=60A5FA&currStreakNum=60A5FA&currStreakLabel=60A5FA&sideNums=2F80ED&sideLabels=D6E4F0&dates=829AB1"
 width="100%"
 />
 
 <br><br>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar25923-gif&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar25923-gif&layout=compact&hide_border=true&bg_color=071426&title_color=60A5FA&text_color=D6E4F0"
 width="100%"
 />
 
@@ -90,33 +113,45 @@ width="100%"
 # 🐍 Contribution Activity
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/satyamkumar25923-gif/satyamkumar25923-gif/output/github-contribution-grid-snake-dark.svg"
-  />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/satyamkumar25923-gif/satyamkumar25923-gif/output/github-contribution-grid-snake.svg"
-  />
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/satyamkumar25923-gif/satyamkumar25923-gif/output/github-contribution-grid-snake-dark.svg"
+/>
 
-  <img
-    src="https://raw.githubusercontent.com/satyamkumar25923-gif/satyamkumar25923-gif/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/satyamkumar25923-gif/satyamkumar25923-gif/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+src="https://raw.githubusercontent.com/satyamkumar25923-gif/satyamkumar25923-gif/output/github-contribution-grid-snake.svg"
+width="100%"
+alt="GitHub Contribution Snake"
+/>
+
 </picture>
+
+---
+
+# 🚀 What I'm Currently Doing
+
+<img src="https://img.shields.io/badge/💻%20Building-Full--Stack%20Projects-0B1F3A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20Exploring-AI%20%2F%20ML-102A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20Practicing-DSA-163D66?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Learning-Web%20Development-0B1F3A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20Creating-Real--World%20Projects-102A43?style=for-the-badge"/>
 
 ---
 
 # 📌 GitHub Profile
 
 <a href="https://github.com/satyamkumar25923-gif">
-<img src="https://img.shields.io/badge/GitHub-satyamkumar25923--gif-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-satyamkumar25923--gif-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/satyamkumar25923-gif?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-60A5FA?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repositories-102A43?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
@@ -124,11 +159,17 @@ width="100%"
 # 👀 Profile Views
 
 <img
-src="https://komarev.com/ghpvc/?username=satyamkumar25923-gif&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"
+src="https://komarev.com/ghpvc/?username=satyamkumar25923-gif&label=PROFILE%20VIEWS&color=0B1F3A&style=for-the-badge"
 />
 
----
+<br><br>
 
-### 💜 Thanks for visiting my profile!
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A&height=100&section=footer"
+/>
+
+### 💙 Thanks for visiting my profile!
+
+**Let's build something awesome together.**
 
 </div>
