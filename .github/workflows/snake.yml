@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
@@ -16,18 +13,18 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate blue contribution snake
+      - name: Generate Contribution Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: satyamkumar25923-gif
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=60A5FA&color_dots=071426,0B1F3A,123B5D,1D5F91,2F80ED
             dist/github-contribution-grid-snake-dark.svg?color_snake=60A5FA&color_dots=071426,0B1F3A,123B5D,1D5F91,2F80ED
 
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Deploy Snake
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
